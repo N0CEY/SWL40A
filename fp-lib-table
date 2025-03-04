@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SWL40A")(type "KiCad")(uri "${KIPRJMOD}/SWL40A.pretty")(options "")(descr ""))
+)
